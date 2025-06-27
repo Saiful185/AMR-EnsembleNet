@@ -1,0 +1,1 @@
+# AMR-Prediction-From-SNPs
