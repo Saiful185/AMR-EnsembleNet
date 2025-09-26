@@ -17,7 +17,7 @@ The AMR-EnsembleNet is a simple soft voting ensemble that combines the predictio
 
 The final prediction is the unweighted/weighted average of the probabilities from these two models, creating a more robust and generalized classifier.
 
-![AMR-EnsembleNet Overview Diagram](figures/AMR-EnsembleNet.png) 
+![AMR-EnsembleNet_Diagram](figures/AMR-EnsembleNet.png) 
 
 ---
 
