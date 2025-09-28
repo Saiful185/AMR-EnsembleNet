@@ -112,7 +112,7 @@ If you find this work useful in your research, please consider citing our paper:
 	year = {2025},\
 	doi = {10.1101/2025.09.27.678993},\
 	publisher = {Cold Spring Harbor Laboratory},\
-	URL = {https://www.biorxiv.org/content/early/2025/09/27/2025.09.27.678993},\
+	URL = {https://www.biorxiv.org/content/early/2025/09/27/2025.09.27.678993}, \
 	journal = {bioRxiv}
 }
 
