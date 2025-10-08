@@ -105,7 +105,7 @@ The pre-trained model weights for our key experiments are available for download
 
 If you find this work useful in your research, please consider citing our paper:
 
-@article {Siddiqui2025AMREnsembleNet,\
+@article{Siddiqui2025AMREnsembleNet,\
 	author = {Siddiqui, Md. Saiful Bari and Tarannum, Nowshin},\
 	title = {Fusing Sequence Motifs and Pan-Genomic Features: Antimicrobial Resistance Prediction using an Explainable Lightweight 1D CNN - XGBoost Ensemble},\
 	elocation-id = {2025.09.27.678993},\
